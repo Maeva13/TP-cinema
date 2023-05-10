@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titre": "Labyrinthes",
+        "auteur": "Franck Thilliez",
+        "prix": 8.6,
+        "description": "L'oubli comme seul témoin... Une enquête en forme de labyrinthe qui vous piègera jusqu'à la dernière page."
+    },
+    {
+        "id": 2,
+        "titre": "Sur la dalle",
+        "auteur": "Fred Vargas",
+        "prix": 23.0,
+        "description": "Le dolmen dont tu m'as parlé, Johan, il est bien sur la route du petit pont ?"
+    },
+    {
+        "id": 3,
+        "titre": "Un coup de soleil",
+        "auteur": "Serena Giuliano",
+        "prix": 18.9,
+        "description": "À Salerno, les jours se suivent mais ne se ressemblent pas pour Éléonore. Entre ses ménages et ses jumeaux ados, elle n'a pas le temps de goûter à la dolce vita."
+    },
+    {
+        "id": 4,
+        "titre": "Merci, grazie, thank you",
+        "auteur": "Julien Sandrel",
+        "prix": 8.9,
+        "description": "Gina, charmante vieille dame d'origine italienne qui mène une existence modeste à Paris, joue chaque mois aux machines à sous."
+    }
+]
