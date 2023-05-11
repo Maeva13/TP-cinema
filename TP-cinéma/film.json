@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "645b90ec3ec6bce00a1c0379"
+  },
+  "titre": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+  "description": "La première partie de la trilogie du Seigneur des Anneaux, où Frodon doit porter l'Anneau unique jusqu'à Mordor pour le détruire.",
+  "acteurs": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen",
+    "Orlando Bloom",
+    "Sean Bean"
+  ],
+  "realisateur": "Peter Jackson",
+  "image": "https://i.ytimg.com/vi/vvx7m22GGtA/maxresdefault.jpg"
+},{
+  "_id": {
+    "$oid": "645b917c3ec6bce00a1c037b"
+  },
+  "titre": "Pirates des Caraïbes : La Fontaine de Jouvence",
+  "description": "Le capitaine Jack Sparrow part à la recherche de la légendaire Fontaine de Jouvence, accompagné de la fille de Barbe-Noire et d'un ancien amour de jeunesse.",
+  "acteurs": [
+    "Johnny Depp",
+    "Penélope Cruz",
+    "Geoffrey Rush"
+  ],
+  "realisateur": "Rob Marshall",
+  "image": "https://www.journaldugeek.com/content/uploads/2022/12/sans-titre-5-31.jpg"
+},{
+  "_id": {
+    "$oid": "645b91c33ec6bce00a1c037d"
+  },
+  "title": "Avatar",
+  "description": "Un ancien marine paraplégique est envoyé sur la planète Pandora, où il rencontre les Na'vi, une race extraterrestre en harmonie avec leur environnement. Avec leur aide, il va tenter de sauver la planète de la destruction.",
+  "image": "https://www.filmspourenfants.net/wp-content/uploads/2018/01/avatar-a-188x250.jpg",
+  "acteurs": [
+    "Sam Worthington",
+    "Zoe Saldana",
+    "Sigourney Weaver"
+  ],
+  "realisateur": "James Cameron"
+},{
+  "_id": {
+    "$oid": "645b92ab3ec6bce00a1c037f"
+  },
+  "titre": "Princesse Mononoké",
+  "description": "Au XVᵉ siècle, durant l'ère Muromachi, la forêt japonaise, jadis protégée par des animaux géants, se dépeuple à cause de l'homme. Un sanglier transformé en démon dévastateur en sort et attaque le village d'Ashitaka, futur chef du clan Emishi. Touché par un mal qui le ronge et dont il cherche à savoir l'origine, il quitte son village et part à la recherche de la cause de la colère des dieux. Sa quête le mène jusqu'à la forêt de la princesse Mononoké, humanoïde élevée par des loups. Ashitaka se trouve bientôt impliqué dans le conflit qui oppose les humains aux dieux de la nature.",
+  "acteurs": [
+    "Yōji Matsuda",
+    "Yuriko Ishida",
+    "Yūko Tanaka"
+  ],
+  "realisateur": "Hayao Miyazaki",
+  "image": "https://www.glenat.com/sites/default/files/images/livres/couv/9782344031704-001-T.jpeg"
+},{
+  "_id": {
+    "$oid": "645b9a663ec6bce00a1c0385"
+  },
+  "title": "Le Dernier Train pour Busan",
+  "description": "Un virus inconnu se répand en Corée du Sud, l'état d'urgence est déclaré. Les passagers du train KTX se livrent à une lutte sans merci afin de survivre jusqu'à Busan, l'unique ville où ils seront en sécurité...",
+  "acteurs": [
+    "Gong Yoo",
+    "Ma Dong-seok",
+    "Jung Yu-mi"
+  ],
+  "realisateur": "Yeon Sang-ho",
+  "image": "https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/000/962/dernier-train-pour-busan-photo-962445.png"
+}]
